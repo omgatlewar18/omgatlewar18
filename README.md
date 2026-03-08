@@ -36,7 +36,7 @@ Currently working on a **Cybersecurity-Themed Virtual Escape Room** to teach sec
 - **SkeletAI** – AI-Powered Forensic Gender Estimation (X-ray based)  
 - **Cyber Escape Room** – Learning cybersecurity via interactive challenges  
 
-*(Repos are structured, documented, and built to be understood—not dumped.)*
+
 
 ---
 
